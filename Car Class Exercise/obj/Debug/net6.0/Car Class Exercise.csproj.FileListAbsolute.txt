@@ -1,0 +1,15 @@
+C:\Users\fergu\OneDrive\Desktop\Repos\Car Class Exercise\Car Class Exercise\bin\Debug\net6.0\Car Class Exercise.exe
+C:\Users\fergu\OneDrive\Desktop\Repos\Car Class Exercise\Car Class Exercise\bin\Debug\net6.0\Car Class Exercise.deps.json
+C:\Users\fergu\OneDrive\Desktop\Repos\Car Class Exercise\Car Class Exercise\bin\Debug\net6.0\Car Class Exercise.runtimeconfig.json
+C:\Users\fergu\OneDrive\Desktop\Repos\Car Class Exercise\Car Class Exercise\bin\Debug\net6.0\Car Class Exercise.dll
+C:\Users\fergu\OneDrive\Desktop\Repos\Car Class Exercise\Car Class Exercise\bin\Debug\net6.0\Car Class Exercise.pdb
+C:\Users\fergu\OneDrive\Desktop\Repos\Car Class Exercise\Car Class Exercise\obj\Debug\net6.0\Car Class Exercise.csproj.AssemblyReference.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Car Class Exercise\Car Class Exercise\obj\Debug\net6.0\Car Class Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fergu\OneDrive\Desktop\Repos\Car Class Exercise\Car Class Exercise\obj\Debug\net6.0\Car Class Exercise.AssemblyInfoInputs.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Car Class Exercise\Car Class Exercise\obj\Debug\net6.0\Car Class Exercise.AssemblyInfo.cs
+C:\Users\fergu\OneDrive\Desktop\Repos\Car Class Exercise\Car Class Exercise\obj\Debug\net6.0\Car Class Exercise.csproj.CoreCompileInputs.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Car Class Exercise\Car Class Exercise\obj\Debug\net6.0\Car Class Exercise.dll
+C:\Users\fergu\OneDrive\Desktop\Repos\Car Class Exercise\Car Class Exercise\obj\Debug\net6.0\refint\Car Class Exercise.dll
+C:\Users\fergu\OneDrive\Desktop\Repos\Car Class Exercise\Car Class Exercise\obj\Debug\net6.0\Car Class Exercise.pdb
+C:\Users\fergu\OneDrive\Desktop\Repos\Car Class Exercise\Car Class Exercise\obj\Debug\net6.0\Car Class Exercise.genruntimeconfig.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Car Class Exercise\Car Class Exercise\obj\Debug\net6.0\ref\Car Class Exercise.dll
